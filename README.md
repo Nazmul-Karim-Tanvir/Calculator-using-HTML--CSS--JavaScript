@@ -1,3 +1,25 @@
+<h1>Modern Calculator</h1> 
+<h4>Youtube Tutorial Link : </h4>
+
+<b> Features: </b> 
+- Summation 
+- Substraction
+- Multiplication
+- Divition 
+
+<b> Built With: </b> 
+- HTML5
+- CSS
+- JavaScript
+- Document Object Model
+
+<b>Preview:</b> 
+![](/images/desktop-view.JPG)
+
+
+<b>Codes I am Proud Of:</b> 
+
+```js
 function clearDisplay() {
     document.getElementsByName("display")[0].value = "";
 }
@@ -18,7 +40,6 @@ function addOperator(operator) {
 function addNumber(number) {
     document.getElementsByName("display")[0].value += number;
 }
-
 
 function calculate() {
     var displayValue = document.getElementsByName("display")[0].value;
@@ -61,4 +82,5 @@ function calculate() {
     document.getElementsByName("display")[0].value = result;
     Copy
 }
+```
 
