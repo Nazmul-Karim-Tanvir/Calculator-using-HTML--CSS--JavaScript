@@ -3,9 +3,9 @@
 
 <b> Features: </b> 
 - Summation 
-- Substraction
+- Subtraction
 - Multiplication
-- Divition 
+- Division 
 
 <b> Built With: </b> 
 - HTML5
